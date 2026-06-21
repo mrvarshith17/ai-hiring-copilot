@@ -91,20 +91,12 @@ The challenge package includes files such as:
 
 ```text
 .
-├── solution.py
-├── config.yaml
+AI-Hiring-Copilot/
+│
+├── README.md
+├── notebook76a10792d5.ipynb
 ├── requirements.txt
-├── data/
-│   ├── candidates.jsonl
-│   ├── candidate_schema.json
-│   ├── job_description.docx
-│   ├── redrob_signals_doc.docx
-│   ├── sample_submission.csv
-│   └── validate_submission.py
-├── outputs/
-│   ├── ranked_candidates.csv
-│   └── submission_metadata.yaml
-└── README.md
+└── validate_submission.py
 ```
 
 ## Setup
