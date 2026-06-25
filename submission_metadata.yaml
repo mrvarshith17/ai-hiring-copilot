@@ -1,0 +1,4 @@
+approach: 'Two-Stage Architecture: MiniLM for semantic similarity filtering, followed
+  by ms-marco-MiniLM Cross-Encoder for deep contextual fit and signal evaluation.'
+signal_integration: true
+team_name: Your_Team_Name
