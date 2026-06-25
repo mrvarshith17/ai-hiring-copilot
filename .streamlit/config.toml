@@ -1,0 +1,9 @@
+[client]
+maxUploadSize = 2048
+
+[theme]
+primaryColor = "#58A6FF"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#161B22"
+textColor = "#C9D1D9"
+font = "sans serif"
